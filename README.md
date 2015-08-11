@@ -11,7 +11,7 @@ This theme requires [Less CSS][less] (`npm install -g less`) and [webassets]
 which you can get from the [`pelican-plugins` repository][plugins].
 
 If you want to use Disqus, note that you should set up the full Comment Count
-Link, as no additional text is applied. For example, mine are:
+Link, as no additional text is applied. For example, mine are currently set to:
 
  - "There are no comments"
  - "There is one comment"
